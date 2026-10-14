@@ -45,11 +45,11 @@ I'm especially interested in big data processing, unsupervised anomaly detection
 
 | Project | Highlights | Stack |
 | :--- | :--- | :--- |
-| 🏦 **Bank Credit Risk & Anomaly Detection** | Distributed big data pipeline for credit risk segmentation and unsupervised anomaly detection on banking datasets | `PySpark` · `Databricks` · `Isolation Forest` · `Fuzzy C-Means` |
-| 🧠 **End-to-End ML Data Pipelines** | Automated data preprocessing, feature engineering, and model evaluation workflows for job title classification and score regression | `Python` · `Scikit-learn` · `Pandas` · `NumPy` |
-| 🎒 **0/1 Knapsack Optimization App** | Interactive web application solving and benchmarking the 0/1 Knapsack problem using metaheuristic vs. exact algorithms | `Python` · `Streamlit` · `Cat Swarm Optimization` · `Backtracking` |
-| 🗂️ **Electronic Record Management System** | Desktop application utilizing custom Binary Search Tree (BST) structures for fast record indexing, search, and management | `C#` · `WinForms` · `Binary Search Tree` |
-| 📊 **Enterprise Process & Analytics** | Statistical hypothesis testing, econometric regression diagnostics, and BPMN workflow modeling for insurance and retail cases | `SQL` · `Python` · `Seaborn` · `BPMN` |
+| **Bank Credit Risk & Anomaly Detection** | Distributed big data pipeline for credit risk segmentation and unsupervised anomaly detection on banking datasets | `PySpark` · `Databricks` · `Isolation Forest` · `Fuzzy C-Means` |
+| **End-to-End ML Data Pipelines** | Automated data preprocessing, feature engineering, and model evaluation workflows for job title classification and score regression | `Python` · `Scikit-learn` · `Pandas` · `NumPy` |
+| **0/1 Knapsack Optimization App** | Interactive web application solving and benchmarking the 0/1 Knapsack problem using metaheuristic vs. exact algorithms | `Python` · `Streamlit` · `Cat Swarm Optimization` · `Backtracking` |
+| **Electronic Record Management System** | Desktop application utilizing custom Binary Search Tree (BST) structures for fast record indexing, search, and management | `C#` · `WinForms` · `Binary Search Tree` |
+| **Enterprise Process & Analytics** | Statistical hypothesis testing, econometric regression diagnostics, and BPMN workflow modeling for insurance and retail cases | `SQL` · `Python` · `Seaborn` · `BPMN` |
 
 ---
 
