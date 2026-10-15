@@ -12,10 +12,10 @@ I'm a Data Science student focused on **Data Engineering** and **Machine Learnin
 
 I'm especially interested in big data processing, unsupervised anomaly detection, machine learning pipelines, and bridging the gap between raw data and actionable economic/business insights.
 
-- 🔭 Building data & ML pipelines with **Python, SQL, PySpark, Databricks, and Scikit-learn**
-- 🧪 Exploring **distributed computing, metaheuristic optimization, anomaly detection, and statistical modeling**
-- 🧠 Combining technical **AI/ML workflows** with structured **Business Analysis & Econometrics**
-- 🎯 Open to **Data Engineer / AI & ML Engineer Internship** opportunities
+- Building data & ML pipelines with **Python, SQL, PySpark, Databricks, and Scikit-learn**
+- Exploring **distributed computing, metaheuristic optimization, anomaly detection, and statistical modeling**
+- Combining technical **AI/ML workflows** with structured **Business Analysis & Econometrics**
+- Open to **Data Engineer / AI & ML Engineer Internship** opportunities
 
 ---
 
